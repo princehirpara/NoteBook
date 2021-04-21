@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197760727254",
+    "project_id": "notebook-34548",
+    "storage_bucket": "notebook-34548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197760727254:android:a874b07cd58f965cfbf177",
+        "android_client_info": {
+          "package_name": "com.princehirpara.notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197760727254-ddobgv1jsjiauriv3kn7maf8sf8jqqng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWI-h1U8Ob7nt0DGX7U9PWhvkWnfsVunI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197760727254-ddobgv1jsjiauriv3kn7maf8sf8jqqng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
